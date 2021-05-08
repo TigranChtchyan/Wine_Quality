@@ -1,3 +1,3 @@
 # Wine_Quality
 
-Group project for Wine quality prediction - EDA on famous Wine dataset and modeling with the use of sci-kit learn.
+A group project for Wine quality prediction - EDA on famous Wine dataset and modeling with the use of sci-kit learn.
